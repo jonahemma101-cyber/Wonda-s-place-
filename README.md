@@ -66,7 +66,7 @@ This website helps restaurants:
 
 For customization, improvements, or full deployment:
 
-📩 WhatsApp: +2349136135552  
+📩 WhatsApp: +2349130102010
 💡 Developer: Emmanuel Jonah
 
 ---
