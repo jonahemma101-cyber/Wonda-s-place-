@@ -58,7 +58,7 @@ This website helps restaurants:
 
 - HTML5
 - CSS3
-- Basic JavaScript (if applicable)
+- Basic JavaScript
 
 ---
 
